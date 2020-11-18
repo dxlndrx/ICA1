@@ -1,207 +1,207 @@
 @charset "UTF-8";
 /* CSS Document */
-	* {
-        box-sizing: border-box;
-    }
+	*{
+		box-sizing: border-box;
+	}
 
+  #symbols_title{
+    color: black;
+    padding-top: 50px;
+    margin-left:52%;
+    font-family: 'Meddon', cursive;
+    font-size: 60px;
+  }
+
+  @media screen and (max-width: 1250px){
     #symbols_title{
-        color: black;
-        padding-top: 50px;
-        margin-left:52%;
-        font-family: 'Meddon', cursive;
-        font-size: 60px;
+      margin-left:44%;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 1250px) {
-        #symbols_title{
-            margin-left:44%;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 1065px){
+    #symbols_title{
+	    margin-left:35%;
+	    transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 1065px) {
-        #symbols_title{
-            margin-left:35%;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 980px){
+    #symbols_title{
+      padding-top: 40px;
+      margin-left:33%;
+      font-size: 50px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 980px) {
-        #symbols_title{
-            padding-top: 40px;
-            margin-left:33%;
-            font-size: 50px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 893px){
+    #symbols_title{
+      padding-top: 30px;
+      margin-left: 28%;
+      font-size: 45px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 893px) {
-        #symbols_title{
-            padding-top: 30px;
-            margin-left: 28%;
-            font-size: 45px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 710px){
+    #symbols_title{
+      padding-top: 20px;
+      margin-left:-8%;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 710px) {
-        #symbols_title{
-            padding-top: 20px;
-            margin-left:-8%;
-            transition: 0.6s;
-        }
-    }
+  #dali_melting_clock{
+    height: 900px;
+    transition: 0.6s;
+  }
 
+  @media screen and (max-width: 1230px){
     #dali_melting_clock{
-        height: 900px;
-        transition: 0.6s;
+      height: 800px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 1230px) {
-        #dali_melting_clock{
-            height: 800px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 1160px){
+    #dali_melting_clock{
+      height: 700px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 1160px) {
-        #dali_melting_clock{
-            height: 700px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 1060px){
+    #dali_melting_clock{
+      height: 740px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 1060px) {
-        #dali_melting_clock{
-            height: 740px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 800px){
+    #dali_melting_clock{
+      height: 690px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 800px) {
-        #dali_melting_clock{
-            height: 690px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 600px){
+    #dali_melting_clock{
+      height: 620px;
+      transition: 0.6s;
     }
-
-    @media screen and (max-width: 600px) {
-        #dali_melting_clock{
-            height: 620px;
-            transition: 0.6s;
-        }
-    }
+  }
 
 	.sec1_column{
-      	float: left;
-      	padding: 10px;
-    }
+  	float: left;
+  	padding: 10px;
+  }
 
+  .sec1_row{
+  	padding: 0px 150px;
+  	margin-top: -300px;
+  }
+
+  @media screen and (max-width: 1240px){
     .sec1_row{
-      	padding: 0px 150px;
-      	margin-top: -300px;
+      margin-top: -270px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 1240px) {
-        .sec1_row{
-            margin-top: -270px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 1085px){
+    .sec1_row{
+      margin-top: -230px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 1085px) {
-        .sec1_row{
-            margin-top: -230px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 980px){
+    .sec1_row{
+      margin-top: -190px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 980px) {
-        .sec1_row{
-            margin-top: -190px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 893px) {
+    .sec1_row{
+      padding: 0px 100px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 893px) {
-        .sec1_row{
-            padding: 0px 100px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 810px){
+    .sec1_row{
+      padding: 0px 70px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 810px) {
-        .sec1_row{
-            padding: 0px 70px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 755px){
+    .sec1_row{
+      margin-top: -170px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 755px) {
-        .sec1_row{
-            margin-top: -170px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 710px){
+    .sec1_row{
+      padding: 0px 30px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 710px) {
-        .sec1_row{
-            padding: 0px 30px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 630px){
+    .sec1_row{
+      padding: 0px 5px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 630px) {
-        .sec1_row{
-            padding: 0px 5px;
-            transition: 0.6s;
-        }
+  @media screen and (max-width: 548px){
+    .sec1_row{
+      margin-top: -140px;
+      transition: 0.6s;
     }
+  }
 
-    @media screen and (max-width: 548px) {
-        .sec1_row{
-            margin-top: -140px;
-            transition: 0.6s;
-        }
-    }
+  .sec1_left{
+    width: 55%;
+  }
 
-    .sec1_left{
-      	width: 55%;
-    }
+  .sec1_right{
+    width: 45%;
+  }
 
-    .sec1_right{
-      	width: 45%;
-    }
+  #sec1_block_design_bkg{
+    background-color: #EBCFC4;
+    top: 0px;
+    margin-left: 400px;
+    padding: 10px;
+    height: 410px;
+    transition: 0.6s;
+  }
 
-    #sec1_block_design_bkg{
-        background-color: #EBCFC4;
-        top: 0px;
-        margin-left: 400px;
-        padding: 10px;
-        height: 410px;
-        transition: 0.6s;
-    }
+  @media screen and (max-width: 1240px) {
+      #sec1_block_design_bkg{
+          height: 380px;
+          transition: 0.6s;
+      }
+  }
 
-    @media screen and (max-width: 1240px) {
-        #sec1_block_design_bkg{
-            height: 380px;
-            transition: 0.6s;
-        }
-    }
+  @media screen and (max-width: 1085px) {
+      #sec1_block_design_bkg{
+          height: 340px;
+          transition: 0.6s;
+      }
+  }
 
-    @media screen and (max-width: 1085px) {
-        #sec1_block_design_bkg{
-            height: 340px;
-            transition: 0.6s;
-        }
-    }
-
-    @media screen and (max-width: 980px) {
-        #sec1_block_design_bkg{
-            height: 300px;
-            transition: 0.6s;
-        }
-    }
+  @media screen and (max-width: 980px) {
+      #sec1_block_design_bkg{
+          height: 300px;
+          transition: 0.6s;
+      }
+  }
 
     @media screen and (max-width: 845px) {
         #sec1_block_design_bkg{
