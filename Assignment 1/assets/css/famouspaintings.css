@@ -6,21 +6,29 @@
         margin: 0;
     }
 
-	* {
-  		box-sizing: border-box;
-	}
+  	* {
+    		box-sizing: border-box;
+  	}
 
-	hr {
-  		border: 1px solid #f1f1f1;
-  		margin-bottom: 25px;
-	}
+  	hr {
+    		border: 1px solid #f1f1f1;
+    		margin-bottom: 25px;
+  	}
 
-	/* Clear floats */
-	.clearfix::after {
-  		content: "";
-  		clear: both;
-  		display: table;
-	}
+  	/* Clear floats */
+  	.clearfix::after {
+    		content: "";
+    		clear: both;
+    		display: table;
+  	}
+
+    #famouspaintings_title{
+      color: black;
+      padding-top: 10px;
+      font-family: 'Meddon', cursive;
+      font-size: 60px;
+      text-align: center;
+    }
 
     #sec1 {
         padding: 2px 60px 10px;
@@ -32,7 +40,7 @@
         }
     }
 
-	/* Content */	
+	/* Content */
     .column {
         float: left;
         width: 50%;
@@ -71,7 +79,7 @@
         content: "";
         display: table;
         clear: both;
-        
+
     }
 
     .card {
