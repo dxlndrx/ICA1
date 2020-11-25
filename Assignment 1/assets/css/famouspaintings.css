@@ -22,12 +22,34 @@
     		display: table;
   	}
 
+    #test_sect{
+      height: 900px;
+      transition: 0.6s;
+    }
+
     #famouspaintings_title{
       color: black;
       padding-top: 10px;
       font-family: 'Meddon', cursive;
       font-size: 60px;
       text-align: center;
+    }
+
+    .sec1_column{
+    	float: left;
+    	padding: 10px;
+    }
+
+    .sec1_row{
+    	padding: 0px 150px;
+    }
+
+    .sec1_left{
+      width: 55%;
+    }
+
+    .sec1_right{
+      width: 45%;
     }
 
     #sec1 {
