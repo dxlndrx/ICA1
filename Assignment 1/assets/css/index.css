@@ -71,8 +71,9 @@
         position: absolute;
         top: 30px;
         left: 0;
-        background-color: #c4bdac;
-        color: white;
+        /* background-color: #c4bdac; */
+        background-color: #ddebdf;
+        color: #59785d;
         padding: 20px 55px;
         height: 100px;
         font-size: 30px;
