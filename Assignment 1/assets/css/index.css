@@ -2,87 +2,160 @@
 /* CSS Document */
 
     body, html{
-        height: 100%;
-        margin: 0;
+      height: 100%;
+      margin: 0;
     }
 
   	*{
-    		box-sizing: border-box;
+    	box-sizing: border-box;
   	}
 
   	hr{
-    		border: 1px solid #f1f1f1;
-    		margin-bottom: 25px;
+  		border: 1px solid #f1f1f1;
+  		margin-bottom: 25px;
   	}
 
     .salvador_dali_image{
-        background-image: url("../images/salvador_dali_image.jpg");
-        height: 100%;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
+      background-image: url("../images/salvador_dali_image.jpg");
+      height: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
     }
 
     @media screen and (max-width: 600px){
-        .salvador_dali_image{
-            background-image: url("../images/salvador_dali_image1.jpg");
-        }
+      .salvador_dali_image{
+        background-image: url("../images/salvador_dali_image1.jpg");
+      }
     }
 
     .salvador_dali_name{
-        position: absolute;
-        top: 50%;
-        left: 65%;
-        transform: translate(-50%, -65%);
-        font-family: 'Sonsie One';
-        font-size: 100px;
-        text-align: center;
-        color: #282828;
+      position: absolute;
+      top: 50%;
+      left: 65%;
+      transform: translate(-50%, -65%);
+      font-family: 'Sonsie One';
+      font-size: 100px;
+      text-align: center;
+      color: #282828;
     }
 
     @media screen and (max-width: 1155px){
-        .salvador_dali_name{
-            font-size: 80px;
-        }
+      .salvador_dali_name{
+        font-size: 80px;
+      }
     }
 
     @media screen and (max-width: 940px){
-        .salvador_dali_name{
-            font-size: 65px;
-        }
+      .salvador_dali_name{
+        font-size: 65px;
+      }
     }
 
     @media screen and (max-width: 800px){
-        .salvador_dali_name{
-            left: 50%;
-            font-size: 55px;
-        }
+      .salvador_dali_name{
+        left: 50%;
+        font-size: 55px;
+      }
     }
 
     @media screen and (max-width: 600px){
-        .salvador_dali_name{
-            top: 78%;
-            left: 73.5%;
-            font-size: 37px;
-        }
+      .salvador_dali_name{
+        top: 78%;
+        left: 73.5%;
+        font-size: 37px;
+      }
+    }
+
+    #most_famous_painting_title{
+      position: absolute;
+      color: white;
+      font-size: 100px;
+      font-family: 'Oswald', sans-serif;
+      margin-top: 130px;
+      margin-left: -20px;
+      width: 30%;
+      text-align: left;
+      line-height: 100%;
+      -ms-transform: rotate(-90deg); /* IE 9 */
+      transform: rotate(-90deg);
+      transition: 0.6s;
+    }
+
+    @media screen and (max-width: 1270px){
+      #most_famous_painting_title{
+        margin-left: 20px;
+        transition: 0.6s;
+      }
+    }
+
+    @media screen and (max-width: 1200px){
+      #most_famous_painting_title{
+        font-size: 80px;
+        margin-top: 115px;
+        transition: 0.6s;
+      }
+    }
+
+    @media screen and (max-width: 990px){
+      #most_famous_painting_title{
+        font-size: 60px;
+        margin-top: 85px;
+        margin-left: 10px;
+        transition: 0.6s;
+      }
+    }
+
+    @media screen and (max-width: 767px){
+      #most_famous_painting_title{
+        font-size: 43px;
+        margin-top: 67px;
+        margin-left: -5px;
+        transition: 0.6s;
+      }
+    }
+
+    @media screen and (max-width: 600px){
+      #most_famous_painting_title{
+        margin-left: 20px;
+        transition: 0.6s;
+      }
+    }
+
+    @media screen and (max-width: 500px){
+      #most_famous_painting_title{
+        margin-top: 90px;
+        transition: 0.6s;
+      }
+    }
+
+    #other_famous_paintings_title{
+      position: relative;
+      color: black;
+      font-size: 100px;
+      font-family: 'Oswald', sans-serif;
+      margin-top: 120px;
+      margin-bottom: -70px;
+      text-align: center;
+      line-height: 100%;
+      transition: 0.6s;
     }
 
     .text-block{
-        position: absolute;
-        top: 30px;
-        left: 0;
-        /* background-color: #c4bdac; */
-        background-color: #ddebdf;
-        color: #59785d;
-        padding: 20px 55px;
-        height: 100px;
-        font-size: 30px;
-        font-family: Arial;
-        transition: 0.6s;
+      position: absolute;
+      top: 30px;
+      left: 40px;
+      background-color: #ddebdf;
+      color: #59785d;
+      padding: 20px 45px;
+      height: 100px;
+      font-size: 30px;
+      font-family: 'Oswald', sans-serif;
+      transition: 0.6s;
     }
 
     .text-block:hover{
-        left: 2%;
+        left: 1px;
         color: #282828;
         cursor: default;
         transition: 0.6s;
@@ -412,6 +485,17 @@
             margin-top: 37px;
             transition: 0.6s;
         }
+    }
+
+    #symbols_title{
+      position: relative;
+      color: black;
+      font-size: 100px;
+      font-family: 'Oswald', sans-serif;
+      margin-top: -20px;
+      margin-bottom: 30px;
+      line-height: 100%;
+      transition: 0.6s;
     }
 
     #dali_melting_clock_symbol_image:hover{

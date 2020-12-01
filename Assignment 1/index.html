@@ -23,6 +23,9 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Sonsie+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Meddon&display=swap" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">x
 
   <!-- Bootstrap -->
   <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -34,27 +37,31 @@
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
   <style>
-    #most-well-known-artwork{
+    #most_famous_painting{
       position: relative;
       padding: 20px 0px;
       height: 515px;
+      transition: 0.6s;
     }
 
     @media screen and (max-width: 1200px){
-      #most-well-known-artwork{
+      #most_famous_painting{
         height: 440px;
+        transition: 0.6s;
       }
     }
 
     @media screen and (max-width: 990px){
-      #most-well-known-artwork{
-        height: 330px
+      #most_famous_painting{
+        height: 330px;
+        transition: 0.6s;
       }
     }
 
     @media screen and (max-width: 767px){
-      #most-well-known-artwork{
-        height: 250px
+      #most_famous_painting{
+        height: 250px;
+        transition: 0.6s;
       }
     }
 
@@ -158,13 +165,17 @@
 
   <!-- Most Famous Painting: The Persistence of Memory -->
   <div id="sec" style="background-color: #ddebdf;padding: 40px 0px;">
-    <div id="most-well-known-artwork" class="container">
+    <div id="most_famous_painting" class="container">
+      <div id="most_famous_painting_title">
+        <p>DALI'S MOST FAMOUS PAINTING</p>
+      </div>
+
       <a href="paintings.html#the_persistence_of_memory">
         <img src="assets/images/the_persistence_of_memory.jpg" id="the_persistence_of_memory_image" alt="The Persistence Of Memory" style="width:60%;float: right;margin: 0px 20px;">
       </a>
 
       <div class="text-block" style="line-height: 100%;">
-        <p style="margin-bottom: 2px;margin-top: 0px;"><b>The Persistence of Memory</b></p>
+        <p style="margin-bottom: 2px;margin-top: 0px;"><b>THE PERSISTENCE OF MEMORY</b></p>
         <a href="paintings.html#the_persistence_of_memory">
           <button class="button clicktoreadmore" style="border-radius: 20px;margin: 0px;padding: 2px 20px;">Click to Read More</button>
         </a>
@@ -175,9 +186,12 @@
 
   <!-- Section 1 -->
   <section id="sec1" style="background-color: white;">
-    <div id="paintings_block_design"></div>
-  	<!-- Salvador Dali well-known Artworks -->
+  	<!-- Salvador Dali's other famous paintings -->
+    <div id="other_famous_paintings_title">
+      <p>OTHER FAMOUS PAINTINGS</p>
+    </div>
 
+    <div id="paintings_block_design"></div>
   	<div class="paintings_row" style="padding-bottom: 130px;">
       <div class="paintings_column">
       	<!-- Swans Reflecting Elephants -->
@@ -188,7 +202,7 @@
           </a>
           <div class="container">
             <!-- Title of Artwork -->
-          	<h4><b>SWANS REFLECTING ELEPHANTS</b></h4>
+          	<h4 style="font-family:'Roboto Condensed', sans-serif;color: #59785d;"><b>SWANS REFLECTING ELEPHANTS</b></h4>
             <!-- Description of Artwork -->
             <p class="card_text">
               Swans Reflecting Elephants is considered a landmark painting in Surrealism as it enhanced the popularity of the double-image style. It is the most famous double image created by Salvador Dali...
@@ -210,7 +224,7 @@
           </a>
           <div class="container">
             <!-- Title of Artwork -->
-            <h4><b>SOFT CONSTRUCTION WITH BOILED BEANS</b></h4>
+            <h4 style="font-family:'Roboto Condensed', sans-serif;color: #59785d;"><b>SOFT CONSTRUCTION WITH BOILED BEANS</b></h4>
             <!-- Description of Artwork -->
             <p class="card_text">
               Soft Construction with Boiled Beans is renowned for brilliant use of surrealism to depict the horrors of war            </p>
@@ -231,7 +245,7 @@
           </a>
           <div class="container">
           	<!-- Title of Artwork -->
-            <h4><b>METAMORPHOSIS OF NARCISSUS</b></h4>
+            <h4 style="font-family:'Roboto Condensed', sans-serif;color: #59785d;"><b>METAMORPHOSIS OF NARCISSUS</b></h4>
             <!-- Description of Artwork -->
             <p class="card_text">
               This painting shows Narcissus, renowned for his beauty, falling in love with his own reflection in the water. Salvador Dali used the paranoiac-critical method to tap into his subconscious through systematic irrational thought and...
@@ -296,6 +310,9 @@
 	<!-- Section 2 -->
 	<section id="sec2" style="background-color: white;">
     <br><br>
+    <div id="symbols_title">
+      <p>SYMBOLS</p>
+    </div>
     <div class="sec2_row">
       <div class="sec2_column sec2_left">
         <a href="symbols.html">
@@ -304,7 +321,7 @@
       </div>
       <div class="sec2_column sec2_right">
         <div id="sec2_block_design">
-          <h4 style="color: #282828;text-align: justify-all;font-weight: bold;margin: 0px;">Dalí Melting Clocks</h4>
+          <h4 style="font-family:'Roboto Condensed', sans-serif;color: #282828;text-align: justify-all;font-weight: bold;margin: 0px;">Dalí Melting Clocks</h4>
           <p style="color: #282828;text-align: justify-all;margin-bottom: 3px;">The famous melting clocks represent the omnipresence of time. They represent time devouring itself. His inspiration for melting clocks came from the surreal way where he saw a piece of cheese melting in the sun.
           </p>
           <a href="symbols.html#dali_melting_clock">
