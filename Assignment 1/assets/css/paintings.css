@@ -2252,7 +2252,7 @@ hr{
 #metamorphosis_of_narcissus{
   background-color: white;
   padding-top: 40px;
-  height:700px;
+  height: 670px;
 }
 
 @media screen and (max-width: 1200px){
@@ -2264,21 +2264,21 @@ hr{
 
 @media screen and (max-width: 1100px){
   #metamorphosis_of_narcissus{
-    height: 580px;
+    height: 550px;
     transition: 0.6s;
   }
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 600px){
   #metamorphosis_of_narcissus{
-    height: 640px;
+    height: 600px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 520px){
   #metamorphosis_of_narcissus{
-    height: 555px;
+    height: 570px;
     transition: 0.6s;
   }
 }
@@ -2864,6 +2864,163 @@ hr{
 @media screen and (max-width: 500px){
   #sec4_block_design_bkg_image{
     height: 145px;
+    transition: 0.6s;
+  }
+}
+
+.sec5_column{
+  float: left;
+  width: 33.33%;
+  padding: 10px 15px;
+  margin: 50px 0px;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1060px){
+  .sec5_column{
+    width: 50%;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  .sec5_column{
+    width: 100%;
+    margin: 20px 0px;
+    transition: 0.6s;
+  }
+}
+
+/* Clear floats after the columns */
+.sec5_row:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.sec5_row{
+  padding: 0px 100px;
+}
+
+@media screen and (max-width: 1060px){
+  .sec5_row{
+    padding: 0px 50px;
+    transition: 0.6s;
+  }
+}
+
+/* @media screen and (max-width: 982px){
+  .sec5_row{
+    padding: 0px;
+    transition: 0.6s;
+  }
+} */
+
+@media screen and (max-width: 1060px){
+  #hide_column{
+    display: none;
+  }
+}
+
+#sec5_block_design_text{
+  position: relative;
+  background-color: white;
+  font-size: 15px;
+  top: -10px;
+  padding: 10px;
+  height: 280px;
+  margin: 0px 20px;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1330px){
+  #sec5_block_design_text{
+    height: 325px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1210px){
+  #sec5_block_design_text{
+    height: 350px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1178px){
+  #sec5_block_design_text{
+    height: 370px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1150px){
+  #sec5_block_design_text{
+    height: 400px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1170px){
+  #sec5_block_design_text{
+    height: 415px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #sec5_block_design_text{
+    font-size: 15px;
+    height: 250px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 879px){
+  #sec5_block_design_text{
+    height: 270px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 780px){
+  #sec5_block_design_text{
+    margin: 0px 10px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 738px){
+  #sec5_block_design_text{
+    height: 285px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 695px){
+  #sec5_block_design_text{
+    height: 325px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 650px){
+  #sec5_block_design_text{
+    height: 350px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #sec5_block_design_text{
+    height: 200px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 500px){
+  #sec5_block_design_text{
+    height: 220px;
     transition: 0.6s;
   }
 }
