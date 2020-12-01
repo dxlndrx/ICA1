@@ -2868,18 +2868,6 @@ hr{
   }
 }
 
-@media screen and (max-width: 1060px){
-  #test{
-    margin-top: -200px;
-  }
-}
-
-@media screen and (max-width: 740px){
-  #test{
-    margin-top: 20px;
-  }
-}
-
 .sec5_column{
   float: left;
   width: 33.33%;
@@ -2914,7 +2902,7 @@ hr{
   padding: 0px 100px;
 }
 
-@media screen and (max-width: 1060px){
+@media screen and (max-width: 1160px){
   .sec5_row{
     padding: 0px 50px;
     transition: 0.6s;
@@ -2928,24 +2916,1519 @@ hr{
   }
 }
 
-/* @media screen and (max-width: 982px){
-  .sec5_row{
-    padding: 0px;
+#the_great_masturbator_block_design{
+  background-color: #59785d;
+  margin-top: -70%;
+  margin-left: 3.5%;
+  padding: 10px;
+  height: 280px;
+  width: 99%;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1415px){
+  #the_great_masturbator_block_design{
+    height: 274px;
     transition: 0.6s;
   }
-} */
+}
 
-/* @media screen and (max-width: 1060px){
-  #hide_column{
-    display: none;
+@media screen and (max-width: 1385px){
+  #the_great_masturbator_block_design{
+    height: 267px;
+    transition: 0.6s;
   }
-} */
+}
 
-#sec5_block_design_text{
+@media screen and (max-width: 1350px){
+  #the_great_masturbator_block_design{
+    height: 260px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1310px){
+  #the_great_masturbator_block_design{
+    height: 250px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1285px){
+  #the_great_masturbator_block_design{
+    height: 242px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1258px){
+  #the_great_masturbator_block_design{
+    height: 236px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1220px){
+  #the_great_masturbator_block_design{
+    height: 228px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1202px){
+  #the_great_masturbator_block_design{
+    height: 220px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1172px){
+  #the_great_masturbator_block_design{
+    height: 214px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  #the_great_masturbator_block_design{
+    height: 235px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1135px){
+  #the_great_masturbator_block_design{
+    height: 230px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1114px){
+  #the_great_masturbator_block_design{
+    height: 225px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1105px){
+  #the_great_masturbator_block_design{
+    height: 220px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1077px){
+  #the_great_masturbator_block_design{
+    height: 213px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #the_great_masturbator_block_design{
+    height: 325px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1046px){
+  #the_great_masturbator_block_design{
+    height: 320px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1010px){
+  #the_great_masturbator_block_design{
+    height: 312px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  #the_great_masturbator_block_design{
+    height: 304px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 977px){
+  #the_great_masturbator_block_design{
+    height: 298px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 955px){
+  #the_great_masturbator_block_design{
+    height: 290px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 930px){
+  #the_great_masturbator_block_design{
+    height: 280px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 910px){
+  #the_great_masturbator_block_design{
+    height: 274px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  #the_great_masturbator_block_design{
+    height: 270px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 870px){
+  #the_great_masturbator_block_design{
+    height: 260px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 850px){
+  #the_great_masturbator_block_design{
+    height: 252px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 825px){
+  #the_great_masturbator_block_design{
+    height: 245px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #the_great_masturbator_block_design{
+    height: 235px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 790px){
+  #the_great_masturbator_block_design{
+    height: 230px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #the_great_masturbator_block_design{
+    height: 220px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  #the_great_masturbator_block_design{
+    height: 440px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 732px){
+  #the_great_masturbator_block_design{
+    height: 435px;
+    transition: 0.6s;
+  }
+}
+@media screen and (max-width: 715px){
+  #the_great_masturbator_block_design{
+    height: 422px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 700px){
+  #the_great_masturbator_block_design{
+    height: 413px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 686px){
+  #the_great_masturbator_block_design{
+    height: 405px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 670px){
+  #the_great_masturbator_block_design{
+    height: 390px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 660px){
+  #the_great_masturbator_block_design{
+    height: 386px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 645px){
+  #the_great_masturbator_block_design{
+    height: 372px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 633px){
+  #the_great_masturbator_block_design{
+    height: 365px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 620px){
+  #the_great_masturbator_block_design{
+    height: 354px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 610px){
+  #the_great_masturbator_block_design{
+    height: 347px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #the_great_masturbator_block_design{
+    height: 383px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 590px){
+  #the_great_masturbator_block_design{
+    height: 377px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 577px){
+  #the_great_masturbator_block_design{
+    height: 370px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 570px){
+  #the_great_masturbator_block_design{
+    height: 363px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 565px){
+  #the_great_masturbator_block_design{
+    height: 356px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 550px){
+  #the_great_masturbator_block_design{
+    height: 347px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 540px){
+  #the_great_masturbator_block_design{
+    height: 340px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 530px){
+  #the_great_masturbator_block_design{
+    height: 335px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 520px){
+  #the_great_masturbator_block_design{
+    height: 325px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 515px){
+  #the_great_masturbator_block_design{
+    height: 320px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 500px){
+  #the_great_masturbator_block_design{
+    height: 312px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #movedown{
+    padding-top: 500px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  #movedown{
+    padding-top: 0px;
+    transition: 0.6s;
+  }
+}
+
+#galatea_of_the_spheres_block_design{
+  background-color: #59785d;
+  margin-top: -126.5%;
+  margin-left: 3.8%;
+  padding: 10px;
+  height: 495px;
+  width: 99%;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1415px){
+  #galatea_of_the_spheres_block_design{
+    height: 485px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1400px){
+  #galatea_of_the_spheres_block_design{
+    height: 477px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1385px){
+  #galatea_of_the_spheres_block_design{
+    height: 470px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1370px){
+  #galatea_of_the_spheres_block_design{
+    height: 465px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1350px){
+  #galatea_of_the_spheres_block_design{
+    height: 460px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1330px){
+  #galatea_of_the_spheres_block_design{
+    height: 448px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1310px){
+  #galatea_of_the_spheres_block_design{
+    height: 440px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1285px){
+  #galatea_of_the_spheres_block_design{
+    height: 430px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1266px){
+  #galatea_of_the_spheres_block_design{
+    height: 418px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1258px){
+  #galatea_of_the_spheres_block_design{
+    height: 414px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1220px){
+  #galatea_of_the_spheres_block_design{
+    height: 400px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1202px){
+  #galatea_of_the_spheres_block_design{
+    height: 390px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1172px){
+  #galatea_of_the_spheres_block_design{
+    height: 381px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  #galatea_of_the_spheres_block_design{
+    height: 418px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1135px){
+  #galatea_of_the_spheres_block_design{
+    height: 407px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1115px){
+  #galatea_of_the_spheres_block_design{
+    height: 397px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1105px){
+  #galatea_of_the_spheres_block_design{
+    height: 390px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1087px){
+  #galatea_of_the_spheres_block_design{
+    height: 385px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1077px){
+  #galatea_of_the_spheres_block_design{
+    height: 380px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #galatea_of_the_spheres_block_design{
+    height: 582px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1046px){
+  #galatea_of_the_spheres_block_design{
+    height: 570px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1032px){
+  #galatea_of_the_spheres_block_design{
+    height: 560px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1020px){
+  #galatea_of_the_spheres_block_design{
+    height: 550px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1010px){
+  #galatea_of_the_spheres_block_design{
+    height: 545px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  #galatea_of_the_spheres_block_design{
+    height: 540px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 985px){
+  #galatea_of_the_spheres_block_design{
+    height: 530px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 977px){
+  #galatea_of_the_spheres_block_design{
+    height: 525px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 965px){
+  #galatea_of_the_spheres_block_design{
+    height: 520px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 955px){
+  #galatea_of_the_spheres_block_design{
+    height: 515px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 943px){
+  #galatea_of_the_spheres_block_design{
+    height: 507px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 930px){
+  #galatea_of_the_spheres_block_design{
+    height: 495px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 915px){
+  #galatea_of_the_spheres_block_design{
+    height: 485px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  #galatea_of_the_spheres_block_design{
+    height: 477px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 880px){
+  #galatea_of_the_spheres_block_design{
+    height: 465px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 870px){
+  #galatea_of_the_spheres_block_design{
+    height: 463px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 860px){
+  #galatea_of_the_spheres_block_design{
+    height: 453px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 850px){
+  #galatea_of_the_spheres_block_design{
+    height: 447px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 840px){
+  #galatea_of_the_spheres_block_design{
+    height: 440px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 825px){
+  #galatea_of_the_spheres_block_design{
+    height: 428px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 808px){
+  #galatea_of_the_spheres_block_design{
+    height: 418px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #galatea_of_the_spheres_block_design{
+    height: 412px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 790px){
+  #galatea_of_the_spheres_block_design{
+    height: 408px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #galatea_of_the_spheres_block_design{
+    height: 393px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 759px){
+  #galatea_of_the_spheres_block_design{
+    height: 387px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 754px){
+  #galatea_of_the_spheres_block_design{
+    height: 382px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  #galatea_of_the_spheres_block_design{
+    height: 782px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 732px){
+  #galatea_of_the_spheres_block_design{
+    height: 775px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 727px){
+  #galatea_of_the_spheres_block_design{
+    height: 772px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 720px){
+  #galatea_of_the_spheres_block_design{
+    height: 760px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 715px){
+  #galatea_of_the_spheres_block_design{
+    height: 748px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 705px){
+  #galatea_of_the_spheres_block_design{
+    height: 739px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 695px){
+  #galatea_of_the_spheres_block_design{
+    height: 730px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 690px){
+  #galatea_of_the_spheres_block_design{
+    height: 723px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 686px){
+  #galatea_of_the_spheres_block_design{
+    height: 719px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 680px){
+  #galatea_of_the_spheres_block_design{
+    height: 710px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 675px){
+  #galatea_of_the_spheres_block_design{
+    height: 702px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 666px){
+  #galatea_of_the_spheres_block_design{
+    height: 693px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 660px){
+  #galatea_of_the_spheres_block_design{
+    height: 685px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 653px){
+  #galatea_of_the_spheres_block_design{
+    height: 678px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 651px){
+  #galatea_of_the_spheres_block_design{
+    height: 670px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 645px){
+  #galatea_of_the_spheres_block_design{
+    height: 665px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 640px){
+  #galatea_of_the_spheres_block_design{
+    height: 658px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 631px){
+  #galatea_of_the_spheres_block_design{
+    height: 648px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 625px){
+  #galatea_of_the_spheres_block_design{
+    height: 636px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 615px){
+  #galatea_of_the_spheres_block_design{
+    height: 627px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 610px){
+  #galatea_of_the_spheres_block_design{
+    height: 618px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 605px){
+  #galatea_of_the_spheres_block_design{
+    height: 610px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #galatea_of_the_spheres_block_design{
+    height: 685px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 595px){
+  #galatea_of_the_spheres_block_design{
+    height: 672px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 580px){
+  #galatea_of_the_spheres_block_design{
+    height: 653px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 575px){
+  #galatea_of_the_spheres_block_design{
+    height: 648px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 565px){
+  #galatea_of_the_spheres_block_design{
+    height: 638px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 560px){
+  #galatea_of_the_spheres_block_design{
+    height: 630px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 555px){
+  #galatea_of_the_spheres_block_design{
+    height: 625px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 544px){
+  #galatea_of_the_spheres_block_design{
+    height: 612px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 535px){
+  #galatea_of_the_spheres_block_design{
+    height: 600px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 530px){
+  #galatea_of_the_spheres_block_design{
+    height: 592px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 522px){
+  #galatea_of_the_spheres_block_design{
+    height: 585px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 515px){
+  #galatea_of_the_spheres_block_design{
+    height: 572px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 510px){
+  #galatea_of_the_spheres_block_design{
+    height: 565px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 500px){
+  #galatea_of_the_spheres_block_design{
+    height: 557px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #moveup{
+    margin-top: -200px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  #moveup{
+    margin-top: 0px;
+    transition: 0.6s;
+  }
+}
+
+#christ_of_st_john_of_the_cross_block_design{
+  background-color: #59785d;
+  margin-top: -170%;
+  margin-left: 3.5%;
+  padding: 10px;
+  height: 660px;
+  width: 99%;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1415px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 645px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1400px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 635px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1385px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 625px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1370px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 618px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1350px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 607px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1330px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 597px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1310px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 585px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1285px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 570px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1266px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 560px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1258px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 552px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1220px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 534px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1202px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 523px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1172px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 507px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 558px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1135px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 540px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1115px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 530px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1105px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 523px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1087px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 515px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1077px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 505px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 770px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1046px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 762px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1032px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 750px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1020px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 740px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1010px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 730px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 720px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 985px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 710px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 977px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 700px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 965px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 690px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 955px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 684px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 943px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 672px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 930px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 663px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 915px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 650px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 637px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 880px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 620px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 870px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 607px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 860px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 602px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 850px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 595px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 840px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 582px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 825px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 570px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 808px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 557px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 547px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 790px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 539px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 520px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 754px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 512px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 1043px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 732px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 1030px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 720px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 1018px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 715px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 1006px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 705px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 992px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 695px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 975px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 686px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 952px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 675px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 938px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 666px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 920px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 660px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 905px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 651px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 890px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 640px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 876px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 631px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 862px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 625px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 850px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 615px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 835px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 605px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 817px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 912px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 595px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 905px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 590px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 890px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 580px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 873px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 575px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 867px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 565px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 853px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 560px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 840px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 555px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 827px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 544px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 814px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 535px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 800px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 530px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 788px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 522px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 775px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 515px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 765px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 510px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 754px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 500px){
+  #christ_of_st_john_of_the_cross_block_design{
+    height: 740px;
+    transition: 0.6s;
+  }
+}
+
+.sec5_block_design_text{
+  align-items: ce
+  nter;
   position: relative;
   background-color: white;
   font-size: 15px;
-  top: -10px;
+  top: -20px;
   padding: 10px;
   height: 280px;
   margin: 0px 20px;
@@ -2953,42 +4436,42 @@ hr{
 }
 
 @media screen and (max-width: 1330px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 325px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 1210px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 350px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 1178px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 370px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 1150px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 400px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 1170px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 415px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 1060px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     font-size: 15px;
     height: 260px;
     transition: 0.6s;
@@ -2996,64 +4479,621 @@ hr{
 }
 
 @media screen and (max-width: 915px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 285px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 879px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 310px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 808px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 330px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 780px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     margin: 0px 10px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 740px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 200px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 650px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 230px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 600px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 200px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 545px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 220px;
     transition: 0.6s;
   }
 }
 
 @media screen and (max-width: 530px){
-  #sec5_block_design_text{
+  .sec5_block_design_text{
     height: 240px;
     transition: 0.6s;
   }
+}
+
+#sec6_block_design_title{
+  position: absolute;
+  color: #59785d;
+  font-size: 45px;
+  font-family: 'Oswald', sans-serif;
+  margin-top: 250px;
+  left: 17%;
+  transition: 0.6s;
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  transition: 0.6s;
+  display: block;
+}
+
+@media screen and (max-width: 1280px){
+  #sec6_block_design_title{
+    margin-top: 210px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1230px){
+  #sec6_block_design_title{
+    margin-top: 190px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1200px){
+  #sec6_block_design_title{
+    margin-top: 230px;
+    left: 11%;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1115px){
+  #sec6_block_design_title{
+    margin-top: 215px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #sec6_block_design_title{
+    margin-top: 260px;
+    left: 3%;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1015px){
+  #sec6_block_design_title{
+    margin-top: 247px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 944px){
+  #sec6_block_design_title{
+    margin-top: 225px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  #sec6_block_design_title{
+    margin-top: 200px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 825px){
+  #sec6_block_design_title{
+    margin-top: 180px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #sec6_block_design_title{
+    margin-top: 250px;
+    left: -5%;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  #sec6_block_design_title{
+    margin-top: 210px;
+    left: -6%;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 666px){
+  #sec6_block_design_title{
+    margin-top: 185px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #sec6_block_design_title{
+    margin-top: 30px;
+    left: 32%;
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 560px){
+  #sec6_block_design_title{
+    left: 30%;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 540px){
+  #sec6_block_design_title{
+    left: 28%;
+    transition: 0.6s;
+  }
+}
+
+#tuna_fishing_image{
+  position: relative;
+  padding: 50px 400px;
+}
+
+@media screen and (max-width: 1200px){
+  #tuna_fishing_image{
+    padding: 50px 300px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #tuna_fishing_image{
+    padding: 50px 200px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #tuna_fishing_image{
+    padding: 50px 100px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #tuna_fishing_image{
+    padding: 100px 50px;
+    transition: 0.6s;
+  }
+}
+
+#sec6_block_design_bkg_image{
+  background-color: #59785d;
+  margin-top: -71%;
+  margin-left: 3.5%;
+  padding: 10px;
+  height: 470px;
+  width: 99%;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1415px){
+  #sec6_block_design_bkg_image{
+    height: 450px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1400px){
+  #sec6_block_design_bkg_image{
+    height: 435px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1385px){
+  #sec6_block_design_bkg_image{
+    height: 427px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1370px){
+  #sec6_block_design_bkg_image{
+    height: 415px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1350px){
+  #sec6_block_design_bkg_image{
+    height: 400px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1330px){
+  #sec6_block_design_bkg_image{
+    height: 385px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1310px){
+  #sec6_block_design_bkg_image{
+    height: 375px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1285px){
+  #sec6_block_design_bkg_image{
+    height: 350px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1266px){
+  #sec6_block_design_bkg_image{
+    height: 350px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1258px){
+  #sec6_block_design_bkg_image{
+    height: 330px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1220px){
+  #sec6_block_design_bkg_image{
+    height: 307px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1200px){
+  #sec6_block_design_bkg_image{
+    height: 440px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1180px){
+  #sec6_block_design_bkg_image{
+    height: 425px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  #sec6_block_design_bkg_image{
+    height: 400px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1135px){
+  #sec6_block_design_bkg_image{
+    height: 390px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1115px){
+  #sec6_block_design_bkg_image{
+    height: 375px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1105px){
+  #sec6_block_design_bkg_image{
+    height: 367px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1087px){
+  #sec6_block_design_bkg_image{
+    height: 357px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1077px){
+  #sec6_block_design_bkg_image{
+    height: 350px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #sec6_block_design_bkg_image{
+    height: 485px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1046px){
+  #sec6_block_design_bkg_image{
+    height: 475px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1020px){
+  #sec6_block_design_bkg_image{
+    height: 450px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  #sec6_block_design_bkg_image{
+    height: 438px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 985px){
+  #sec6_block_design_bkg_image{
+    height: 425px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 965px){
+  #sec6_block_design_bkg_image{
+    height: 415px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 943px){
+  #sec6_block_design_bkg_image{
+    height: 400px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 930px){
+  #sec6_block_design_bkg_image{
+    height: 390px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 915px){
+  #sec6_block_design_bkg_image{
+    height: 375px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  #sec6_block_design_bkg_image{
+    height: 363px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 870px){
+  #sec6_block_design_bkg_image{
+    height: 345px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 850px){
+  #sec6_block_design_bkg_image{
+    height: 330px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 825px){
+  #sec6_block_design_bkg_image{
+    height: 310px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #sec6_block_design_bkg_image{
+    height: 440px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #sec6_block_design_bkg_image{
+    height: 415px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  #sec6_block_design_bkg_image{
+    height: 390px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 720px){
+  #sec6_block_design_bkg_image{
+    height: 380px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 695px){
+  #sec6_block_design_bkg_image{
+    height: 360px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 666px){
+  #sec6_block_design_bkg_image{
+    height: 342px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 640px){
+  #sec6_block_design_bkg_image{
+    height: 322px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 615px){
+  #sec6_block_design_bkg_image{
+    height: 304px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #sec6_block_design_bkg_image{
+    height: 370px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 580px){
+  #sec6_block_design_bkg_image{
+    height: 355px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 560px){
+  #sec6_block_design_bkg_image{
+    height: 335px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 530px){
+  #sec6_block_design_bkg_image{
+    height: 310px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 515px){
+  #sec6_block_design_bkg_image{
+    height: 300px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 500px){
+  #sec6_block_design_bkg_image{
+    height: 295px;
+    transition: 0.6s;
+  }
+}
+
+#sec6_block_design_bkg{
+  background-color: #ddebdf;
+  margin-top: -220px;
+  padding: 10px;
+  height: 320px;
+  transition: 0.6s;
+}
+
+#sec6_block_design_text{
+  position: relative;
+  font-size: 15px;
+  text-align: justify;
+  top: 160px;
+  padding: 10px;
+  margin: 0px 350px;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1200px){
+  #sec6_block_design_text{
+    margin: 0px 250px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #sec6_block_design_text{
+    margin: 0px 200px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #sec6_block_design_text{
+    margin: 0px 100px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  #sec6_block_design_text{
+    margin: 0px 50px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #sec6_block_design_text{
+    margin: -40px 0px 0px 0px;
+    transition: 0.6s;
+  }
+}
+
+.sec7_column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+
+.sec7_row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
