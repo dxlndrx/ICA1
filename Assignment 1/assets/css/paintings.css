@@ -5085,15 +5085,807 @@ hr{
   }
 }
 
-.sec7_column {
+.sec7_column{
   float: left;
   width: 50%;
-  padding: 10px;
-  height: 300px;
+  padding: 10px 15px;
+  margin: 50px 0px;
+  transition: 0.6s;
 }
 
-.sec7_row:after {
+
+@media screen and (max-width: 900px){
+  .sec7_column{
+    width: 100%;
+    margin: 20px 0px;
+    transition: 0.6s;
+  }
+}
+
+.sec7_row:after{
   content: "";
   display: table;
   clear: both;
 }
+
+.sec7_row{
+  padding: 0px 200px;
+}
+
+@media screen and (max-width: 1235px){
+  .sec7_row{
+    padding: 0px 150px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  .sec7_row{
+    padding: 0px 50px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  .sec7_row{
+    padding: 0px 200px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 845px){
+  .sec7_row{
+    padding: 0px 160px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 765px){
+  .sec7_row{
+    padding: 0px 120px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 685px){
+  .sec7_row{
+    padding: 0px 70px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 585px){
+  .sec7_row{
+    padding: 0px 30px;
+    transition: 0.6s;
+  }
+}
+
+.sec7_block_design_text{
+  align-items: ce
+  nter;
+  position: relative;
+  background-color: white;
+  font-size: 15px;
+  top: -20px;
+  padding: 10px;
+  height: 250px;
+  margin: 0px 20px;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1372px){
+  .sec7_block_design_text{
+    height: 270px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1290px){
+  .sec7_block_design_text{
+    height: 290px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  .sec7_block_design_text{
+    height: 250px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1068px){
+  .sec7_block_design_text{
+    height: 270px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 990px){
+  .sec7_block_design_text{
+    height: 290px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 930px){
+  .sec7_block_design_text{
+    height: 310px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  .sec7_block_design_text{
+    height: 265px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 505px){
+  .sec7_block_design_text{
+    height: 285px;
+    transition: 0.6s;
+  }
+}
+
+#the_burning_giraffe{
+  padding-top:170px;
+}
+
+@media screen and (max-width: 900px){
+  #the_burning_giraffe{
+    padding-top:0px;
+  }
+}
+
+#the_dream_caused_by_the_flight_of_a_bee_block_design{
+  background-color: #59785d;
+  margin-top: -122%;
+  margin-left: 3.2%;
+  padding: 10px;
+  height: 607px;
+  width: 99%;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1423px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 598px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1407px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 585px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1385px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 575px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1370px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 565px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1350px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 550px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1330px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 540px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1310px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 527px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1285px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 512px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1266px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 500px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1250px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 488px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1235px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 540px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1220px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 530px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1200px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 520px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1180px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 507px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 615px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1135px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 600px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1110px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 582px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1087px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 572px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 558px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1046px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 548px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1025px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 534px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 520px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 985px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 507px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 965px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 498px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 943px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 485px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 920px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 470px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 900px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 580px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 888px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 570px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 877px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 550px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 865px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 540px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 857px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 525px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 845px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 615px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 837px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 602px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 825px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 583px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 810px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 570px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 560px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 792px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 545px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 780px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 528px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 516px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 765px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 615px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 758px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 605px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 750px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 595px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 740px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 580px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 728px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 567px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 718px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 552px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 705px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 538px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 695px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 528px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 687px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 519px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 685px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 637px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 678px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 630px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 668px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 613px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 655px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 595px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 640px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 582px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 630px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 568px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 618px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 548px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 533px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 592px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 525px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 585px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 615px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 578px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 605px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 567px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 592px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 558px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 578px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 548px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 567px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 540px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 558px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 532px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 548px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 522px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 537px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 514px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 525px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 504px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 515px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 515px){
+  #the_dream_caused_by_the_flight_of_a_bee_block_design{
+    height: 510px;
+    transition: 0.6s;
+  }
+}
+
+#the_burning_giraffe_block_design{
+  background-color: #59785d;
+  margin-top: -124%;
+  margin-left: 3.2%;
+  padding: 10px;
+  height: 620px;
+  width: 99%;
+  transition: 0.6s;
+}
+
+@media screen and (max-width: 1423px){
+  #the_burning_giraffe_block_design{
+    height: 608px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1407px){
+  #the_burning_giraffe_block_design{
+    height: 593px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1385px){
+  #the_burning_giraffe_block_design{
+    height: 585px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1370px){
+  #the_burning_giraffe_block_design{
+    height: 575px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1350px){
+  #the_burning_giraffe_block_design{
+    height: 562px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1330px){
+  #the_burning_giraffe_block_design{
+    height: 550px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1310px){
+  #the_burning_giraffe_block_design{
+    height: 535px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1285px){
+  #the_burning_giraffe_block_design{
+    height: 512px;
+    transition: 0.6s;
+  }
+}
+/*
+@media screen and (max-width: 1266px){
+  #the_burning_giraffe_block_design{
+    height: 500px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1250px){
+  #the_burning_giraffe_block_design{
+    height: 488px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1235px){
+  #the_burning_giraffe_block_design{
+    height: 540px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1220px){
+  #the_burning_giraffe_block_design{
+    height: 530px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1200px){
+  #the_burning_giraffe_block_design{
+    height: 520px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1180px){
+  #the_burning_giraffe_block_design{
+    height: 507px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1160px){
+  #the_burning_giraffe_block_design{
+    height: 615px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1135px){
+  #the_burning_giraffe_block_design{
+    height: 600px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1110px){
+  #the_burning_giraffe_block_design{
+    height: 582px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1087px){
+  #the_burning_giraffe_block_design{
+    height: 572px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1060px){
+  #the_burning_giraffe_block_design{
+    height: 558px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1046px){
+  #the_burning_giraffe_block_design{
+    height: 548px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1025px){
+  #the_burning_giraffe_block_design{
+    height: 534px;
+    transition: 0.6s;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  #the_burning_giraffe_block_design{
+    height: 520px;
+    transition: 0.6s;
+  }
+} */
